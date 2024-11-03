@@ -1,0 +1,20 @@
+/* components/Tab/Tab.css */
+.tab {
+    padding: 20px;
+    border-radius: 8px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .tab input {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+  
