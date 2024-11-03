@@ -1,0 +1,19 @@
+/* components/Tabs/Tabs.css */
+.tabsTableContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .tabsTable {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .tabsTableCell {
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 33.33%;
+  }
+  
