@@ -1,0 +1,19 @@
+/* components/Color/Color.css */
+.colorPicker {
+    position: relative;
+  }
+  
+  .colorOptions {
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+  }
+  
+  .colorOption {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #333;
+  }
+  
