@@ -1,4 +1,3 @@
-// components/Tabs/Tabs.jsx
 import React from 'react';
 import Tab from '../Tab/Tab';
 import Style from './Tabs.module.css';

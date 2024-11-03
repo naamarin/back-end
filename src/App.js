@@ -1,4 +1,3 @@
-// App.js
 import React, { useState, useEffect } from 'react';
 import Tabs from './components/Tabs/Tabs';
 import './App.css';

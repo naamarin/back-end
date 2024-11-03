@@ -1,4 +1,3 @@
-// components/Color/Color.jsx
 import React, { useState } from 'react';
 import Style from './Color.module.css';
 

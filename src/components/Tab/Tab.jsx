@@ -1,4 +1,3 @@
-// components/Tab/Tab.jsx
 import React, { useState } from 'react';
 import Color from '../Color/Color';
 import Style from './Tab.module.css';

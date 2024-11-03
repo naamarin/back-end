@@ -1,4 +1,3 @@
-// services/tabService.js
 import axiosInstance from './axiosInstance';
 
 export const getTabs = async () => {
